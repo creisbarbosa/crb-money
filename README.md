@@ -8,16 +8,15 @@ A simple personal finance app designed and deveploped by me.
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
 </p>
 
 <br>
 
-<p align="center" style="border-radius: 16px">
+<p align="center">
   <img alt="crbmoney" src="./public/layout.png" width="100%">
 </p>
 
-## ❖ technologies
+## ✸ Technologies
 
 This projetc was developed with these technologies:
 
@@ -28,15 +27,15 @@ This projetc was developed with these technologies:
 - [Create React App](https://create-react-app.dev)
 - [Styled Components](https://styled-components.com)
 
-## ❖ project
+## ⬢ Project
 
 CRB Money is a simple application tha simulates our financial sratement with simple math. It's possible to add inputs trhoug a modal and update HTML elements.
 
-## ❖ layout
+## ❖ Layout
 
 Take a look at the project's Layout designed on [Figma](https://www.figma.com/file/25g25nubTWuoPCoIfTVpkr/CRB-Money).
+
 It`s necessary a [Figma](https://figma.com) account to access it.
-[
 
 
 @creisbarbosa
